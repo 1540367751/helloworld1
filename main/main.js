@@ -2,7 +2,7 @@
     console.log("Debug Info");
     return 'Hello World!';
 };*/
-function caclRemaindar(i,j) {
+function main(i,j) {
     Remaindar = i % j;
     return Remaindar;
 };
